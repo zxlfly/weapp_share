@@ -1,0 +1,2 @@
+<button bindtap="getrun" type='primary'>获取微信步数</button>
+<button bindtap="getsum" type='primary'>求和</button>
